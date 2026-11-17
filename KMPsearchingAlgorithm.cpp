@@ -96,7 +96,7 @@ int main()
   {
     for (auto k : answer)
     {
-      cout << "Pattern match at index: " << k << endl;
+      cout << "Pattern match at index: " << k << "\n";
     }
   }
   return 0;
